@@ -32,3 +32,10 @@ public class Singleton {
         return instance;
     }
 }
+
+
+java常用的类：BufferedReader BufferedWriter ，FileReader FileWirter ，String Integer java.util.Date， Class， HashMap
+
+java常用的接口：List ，Map ，Document ，NodeList ，Servlet,  HttpServletResponse, Transaction(Hibernate)、 Session(Hibernate), HttpSession
+
+java常用的包：java.lang ，java.io ，java.util ，java.sql ，javax.servlet ，org.apache.strtuts.action ，org.hibernate
